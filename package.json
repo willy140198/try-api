@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start:max": "pm2 start index.js --name 'server' -i max"
+    "start:max": "pm2 start index.js --name 'server' -i 0"
   },
   "author": "",
   "license": "ISC",
